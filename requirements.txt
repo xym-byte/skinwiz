@@ -1,0 +1,12 @@
+requests
+pandas
+arff
+beautifulsoup4
+lxml
+selenium
+tqdm
+streamlit
+streamlit_extras
+scikit-learn
+geopandas
+contextily
